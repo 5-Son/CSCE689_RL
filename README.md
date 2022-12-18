@@ -30,7 +30,7 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 ## 4. Execute ROS Packages
 - **Waypoint Navigation using RL PID control on Gazebo Sim**  
 	Package: *turtlebot_rl_py*
-	1. Start the TurtleBot3  Gazebo simulation
+	1. Start the TurtleBot3  Gazebo simulation  
   		`export TURTLEBOT3_MODEL=burger`  
   		`roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch`
   
