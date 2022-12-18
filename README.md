@@ -13,7 +13,7 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 ## 3. Package Installation
 
 - **TurtleBot3 on Gazebo**  
-	1.Follow the tutorials from the ROBOTIS website.
+	1.Follow the tutorials from the ROBOTIS website.  
 	https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/
 
 	1. Clone *turtlebot_rl_py* package into workspace  
@@ -34,5 +34,5 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
   		`export TURTLEBOT3_MODEL=burger`  
   		`roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch`
   
-	2. Execute the python script  
+	2. **(In NEW Terminal)** Execute the python script  
 		`rosrun turtlebot_rl_py waypoint_test.py`  
