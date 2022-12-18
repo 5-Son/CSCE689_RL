@@ -20,7 +20,7 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 		`cd ~/catkin_ws/src`  
 		`git clone https://github.com/5-Son/CSCE689_RL.git`
     
-	2. Build catkin workspace directory  
+	2. Build 'catkin' workspace directory  
 		`cd ~/catkin_ws`
 		`catkin_make`
     
